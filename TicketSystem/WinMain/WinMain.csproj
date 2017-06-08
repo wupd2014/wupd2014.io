@@ -86,7 +86,6 @@
     <Compile Include="CardForm.designer.cs">
       <DependentUpon>CardForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="DaYin.cs">
       <SubType>Form</SubType>
     </Compile>

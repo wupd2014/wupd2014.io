@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Card\Card.cs" />
+    <Compile Include="Class19.cs" />
     <Compile Include="Metrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Ticket\TicketOrder.cs" />
