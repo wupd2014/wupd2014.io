@@ -1,0 +1,2180 @@
+
+ 
+记录时间：2017-05-31 08:01:38,650 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:45,229 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:45,954 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:46,943 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:47,945 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:48,945 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:49,945 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:50,945 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:51,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:52,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:53,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:54,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:55,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:56,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:57,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:58,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:01:59,946 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:00,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:01,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:02,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:03,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:04,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:05,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:06,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:07,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:08,947 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:09,948 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:10,948 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:11,948 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:12,948 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:13,948 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:14,948 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:15,948 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:02:16,948 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:34,328 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:34,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:35,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:36,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:37,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:38,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:39,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:40,663 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:41,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:42,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:43,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:44,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:45,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:46,658 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:47,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:48,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:49,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:50,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:51,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:52,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:53,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:54,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:55,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:56,664 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:57,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:58,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:16:59,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:00,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:01,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:02,658 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:03,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:04,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:05,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:06,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:07,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:08,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:09,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:10,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:11,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:12,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:13,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:14,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:15,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:16,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:17,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:18,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:19,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:20,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:21,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:22,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:23,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:24,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:25,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:26,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:27,658 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:28,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:29,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:30,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:31,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:32,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:33,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:34,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:35,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:17:36,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:23,495 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:23,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:24,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:25,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:26,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:27,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:28,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:29,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:30,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:31,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:32,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:33,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:34,659 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:35,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:36,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:37,662 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:38,660 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:53,238 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:54,114 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:55,111 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 08:18:56,113 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:06:56,939 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:00,950 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:01,833 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:02,830 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:03,834 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:04,834 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:05,835 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:06,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:07,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:08,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:09,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:10,833 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:11,833 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:12,835 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:13,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:14,830 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:15,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:16,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:17,834 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:18,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:19,835 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:20,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:21,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:22,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:23,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:24,833 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:25,833 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:26,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:27,833 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:28,835 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:29,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:30,835 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:31,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:32,830 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:33,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:34,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:35,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:36,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:37,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:38,831 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:39,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:40,830 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:41,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:42,833 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:43,834 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:44,832 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:45,834 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:07:46,835 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:10:49,523 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:10:51,524 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:10:52,324 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:10:55,101 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:10:55,103 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:10:55,632 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:10:56,627 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:49,415 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:50,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:51,319 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:52,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:53,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:54,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:55,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:56,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:57,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:58,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:18:59,319 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:00,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:01,319 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:02,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:03,319 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:04,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:05,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:06,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:07,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:08,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:09,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:10,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:11,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:12,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:13,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:14,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:15,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:16,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:17,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:18,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:19,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:20,314 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:21,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:22,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:23,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:24,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:25,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:26,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:27,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:28,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:29,314 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:30,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:31,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:32,319 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:33,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:34,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:35,314 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:36,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:37,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:38,319 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:39,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:40,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:41,319 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:42,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:43,319 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:44,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:45,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:46,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:47,314 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:48,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:49,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:50,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:51,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:52,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:53,314 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:54,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:55,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:56,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:57,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:58,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:19:59,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:00,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:01,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:02,314 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:03,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:04,317 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:05,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:06,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:07,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:08,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:09,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:10,316 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:11,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:12,315 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:13,318 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:20:14,314 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:35,585 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:36,376 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:37,031 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:40,431 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:40,432 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:40,472 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:41,476 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:42,472 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:43,472 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:44,472 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:22:45,472 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-31 09:29:33,816 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：Error
+ 
+System.DllNotFoundException: 无法加载 DLL“cardapi3.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 Model.Card.OpenCardReader(Int32 lPort, UInt32 ulFlag, UInt32 ulBaudRate)
+   在 WinMain.CardForm.OpenDevice() 位置 h:\001.项目代码\机场巴士CS\机场巴士CS\TicketSystem\WinMain\CardForm.cs:行号 76
+   在 WinMain.CardForm.Init() 位置 h:\001.项目代码\机场巴士CS\机场巴士CS\TicketSystem\WinMain\CardForm.cs:行号 57

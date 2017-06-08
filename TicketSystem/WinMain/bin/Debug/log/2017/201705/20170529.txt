@@ -1,0 +1,72 @@
+
+ 
+记录时间：2017-05-29 07:38:41,835 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-29 07:38:42,617 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-29 07:38:43,616 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-29 07:38:44,614 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-29 07:38:45,614 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-29 07:38:46,615 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-29 07:38:47,614 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-29 07:38:48,616 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 
+
+ 
+记录时间：2017-05-29 07:38:49,617 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：未初始化
+ 

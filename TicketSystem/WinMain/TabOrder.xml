@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dics>
+  <DIC  FROM='txtRQ'            TO='lblCurrentTime'></DIC>
+  <DIC  FROM='lblCurrentTime'      TO='txtLine'></DIC>
+  <DIC  FROM='txtLine'   TO='txtTicketNo'></DIC>
+  <DIC  FROM='txtTicketNo'         TO='txtBc'></DIC>
+  <DIC  FROM='txtBc'    TO='txtEndStation'></DIC>
+  <DIC  FROM='txtEndStation'        TO='txtStartStation'></DIC>
+  <DIC  FROM='txtStartStation'           TO='txtPreDay'></DIC>
+  <DIC  FROM='txtPreDay'  TO='txtFullCount'></DIC>
+  <DIC  FROM='txtFullCount'     TO='txtYHCount'></DIC>
+  <DIC  FROM='txtYHCount'             TO='txtPayMoney'></DIC>
+  <DIC  FROM='txtPayMoney'            TO='btnDaYin'></DIC>
+  <DIC  FROM='btnDaYin'         TO='txtRQ'></DIC>
+</Dics>

@@ -1,0 +1,576 @@
+
+ 
+记录时间：2017-06-08 09:26:28,257 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-06-08 09:26:29,174 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-06-08 09:26:30,168 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-06-08 09:26:31,172 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-06-08 09:26:32,325 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 09:26:33,219 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-06-08 09:26:34,172 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-06-08 09:26:35,174 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-06-08 09:26:36,170 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-06-08 09:28:52,642 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：【result:无身份信息】
+ 
+
+ 
+记录时间：2017-06-08 09:28:53,561 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：【result:无身份信息】
+ 
+
+ 
+记录时间：2017-06-08 09:28:54,562 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：【result:无身份信息】
+ 
+
+ 
+记录时间：2017-06-08 10:18:04,502 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:18:46,941 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:19:10,141 
+线程ID:[10] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:21:03,823 
+线程ID:[8] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:25:24,754 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:28:39,475 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:31:59,366 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:09,008 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:15,479 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:17,211 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:18,942 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:20,571 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:22,301 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:23,930 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:25,661 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:27,290 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:29,021 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:30,649 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:32,376 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:34,006 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:35,735 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:37,465 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:39,196 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:40,923 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:42,553 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:32:44,282 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:34:01,669 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:34:03,268 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:34:04,900 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:34:06,631 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:34:08,360 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:34:10,089 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:34:11,818 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:34:13,547 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:34:15,127 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:34:16,606 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:34:18,185 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:35:50,763 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:35:52,507 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:35:54,236 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:35:55,866 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:35:57,596 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:35:59,075 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:36:00,654 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:40:48,915 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:40:50,672 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:40:52,401 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:40:54,130 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:40:55,759 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:40:57,339 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:40:59,068 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:41:00,474 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:41:02,106 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:41:03,686 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:41:05,265 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡失败
+ 
+
+ 
+记录时间：2017-06-08 10:41:06,994 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:41:08,720 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:41:10,349 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:41:11,979 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 
+
+ 
+记录时间：2017-06-08 10:41:13,708 
+线程ID:[1] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡成功
+ 

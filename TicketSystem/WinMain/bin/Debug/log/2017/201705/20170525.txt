@@ -1,0 +1,224 @@
+
+ 
+记录时间：2017-05-25 17:34:14,066 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:14,920 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:15,919 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:16,921 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:17,917 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:18,918 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:19,921 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:20,919 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:21,920 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:22,918 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:23,920 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:24,920 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:25,919 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:26,917 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:27,918 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:28,920 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:34:29,918 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:37:38,162 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:37:39,063 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:37:40,066 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:37:41,062 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:37:42,060 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:38:05,455 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:38:06,360 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:38:07,356 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:38:08,357 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:38:09,359 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
+
+ 
+记录时间：2017-05-25 17:38:10,356 
+线程ID:[9] 
+日志级别：  ERROR 
+使用类：WinMain.CardForm property: [(null)] - 
+输出结果：读卡操作失败
+ 
