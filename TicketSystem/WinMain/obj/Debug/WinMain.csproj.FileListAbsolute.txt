@@ -204,3 +204,27 @@ H:\001.项目代码\机场巴士CS\新建文件夹 (2)\wupd2014.io\TicketSystem\
 H:\001.项目代码\机场巴士CS\新建文件夹 (2)\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.ReSellForm.resources
 H:\001.项目代码\机场巴士CS\新建文件夹 (2)\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.SellForm.resources
 H:\001.项目代码\机场巴士CS\新建文件夹 (2)\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.csproj.GenerateResource.Cache
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\WinMain.exe.config
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.exe
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.pdb
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\TabOrder.xml
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\WinMain.exe
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\WinMain.pdb
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\BLL.dll
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\Common.dll
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\MaterialSkin.dll
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\Model.dll
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\log4net.dll
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\BLL.pdb
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\Common.pdb
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\exe\Model.pdb
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.csprojResolveAssemblyReference.cache
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.CardForm.resources
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.DaYin.resources
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.Form3.resources
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.Login.resources
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.MainNew.resources
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.Properties.Resources.resources
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.ReSellForm.resources
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.SellForm.resources
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\WinMain\obj\Debug\WinMain.csproj.GenerateResource.Cache

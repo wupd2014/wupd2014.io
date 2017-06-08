@@ -25,3 +25,7 @@ H:\001.项目代码\机场巴士CS\新建文件夹 (2)\wupd2014.io\TicketSystem\
 H:\001.项目代码\机场巴士CS\新建文件夹 (2)\wupd2014.io\TicketSystem\Model\bin\Debug\Model.pdb
 H:\001.项目代码\机场巴士CS\新建文件夹 (2)\wupd2014.io\TicketSystem\Model\obj\Debug\Model.dll
 H:\001.项目代码\机场巴士CS\新建文件夹 (2)\wupd2014.io\TicketSystem\Model\obj\Debug\Model.pdb
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Model\bin\Debug\Model.dll
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Model\bin\Debug\Model.pdb
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Model\obj\Debug\Model.dll
+H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Model\obj\Debug\Model.pdb
