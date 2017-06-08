@@ -18,4 +18,4 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 git pull origin master
 
 
-ffff
+=========Git Gui图形界面使用
