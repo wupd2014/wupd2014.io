@@ -3,3 +3,14 @@ git status
 git add -all
 git commit -m "注释语句"
 git push
+
+==
+git init
+
+git status
+
+
+git config -global user.name ""
+git config -global user.email ""
+
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
