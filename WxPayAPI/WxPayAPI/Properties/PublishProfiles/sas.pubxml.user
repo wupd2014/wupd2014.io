@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/LitJson.dll">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="bin/QuickMark.dll">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="bin/ThoughtWorks.QRCode.dll">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="bin/WxPayAPI.dll">
+      <publishTime>06/09/2017 11:27:05</publishTime>
+    </File>
+    <File Include="cert/apiclient_cert.p12">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/09/2017 11:24:14</publishTime>
+    </File>
+    <File Include="example/DownloadBillPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/JsApiPayPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/MakeQRCode.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/MicroPayPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/NativeNotifyPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/NativePayPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/OrderQueryPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/ProductPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/RefundPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/RefundQueryPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="example/ResultNotifyPage.aspx">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.intellisense.js">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>06/09/2017 11:15:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/09/2017 11:27:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

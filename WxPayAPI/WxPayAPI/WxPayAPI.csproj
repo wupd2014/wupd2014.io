@@ -186,7 +186,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="cert\apiclient_cert.p12" />
-    <None Include="Properties\PublishProfiles\WxPayWebConfig.pubxml" />
+    <None Include="Properties\PublishProfiles\sas.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
       <SubType>Designer</SubType>
