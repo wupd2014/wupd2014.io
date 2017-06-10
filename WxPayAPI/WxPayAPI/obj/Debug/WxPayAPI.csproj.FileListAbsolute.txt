@@ -23,3 +23,8 @@ H:\001.项目代码\机场巴士CS\wupd2014.io\WxPayAPI\WxPayAPI\bin\WxPayAPI.pd
 H:\001.项目代码\机场巴士CS\wupd2014.io\WxPayAPI\WxPayAPI\obj\Debug\WxPayAPI.csprojResolveAssemblyReference.cache
 H:\001.项目代码\机场巴士CS\wupd2014.io\WxPayAPI\WxPayAPI\obj\Debug\WxPayAPI.dll
 H:\001.项目代码\机场巴士CS\wupd2014.io\WxPayAPI\WxPayAPI\obj\Debug\WxPayAPI.pdb
+E:\001.项目代码\wupd2014.io\WxPayAPI\WxPayAPI\bin\WxPayAPI.dll
+E:\001.项目代码\wupd2014.io\WxPayAPI\WxPayAPI\bin\WxPayAPI.pdb
+E:\001.项目代码\wupd2014.io\WxPayAPI\WxPayAPI\obj\Debug\WxPayAPI.csprojResolveAssemblyReference.cache
+E:\001.项目代码\wupd2014.io\WxPayAPI\WxPayAPI\obj\Debug\WxPayAPI.dll
+E:\001.项目代码\wupd2014.io\WxPayAPI\WxPayAPI\obj\Debug\WxPayAPI.pdb
