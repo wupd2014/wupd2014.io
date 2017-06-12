@@ -40,3 +40,10 @@ H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Common\bin\Debug\Mat
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Common\obj\Debug\Common.dll
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Common\obj\Debug\Common.pdb
+E:\001.项目代码\wupd2014.io\TicketSystem\Common\bin\Debug\Common.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\Common\bin\Debug\Common.pdb
+E:\001.项目代码\wupd2014.io\TicketSystem\Common\bin\Debug\log4net.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\Common\bin\Debug\MaterialSkin.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\001.项目代码\wupd2014.io\TicketSystem\Common\obj\Debug\Common.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\Common\obj\Debug\Common.pdb

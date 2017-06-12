@@ -29,3 +29,8 @@ H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Model\bin\Debug\Mode
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Model\bin\Debug\Model.pdb
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Model\obj\Debug\Model.dll
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\Model\obj\Debug\Model.pdb
+E:\001.项目代码\wupd2014.io\TicketSystem\Model\bin\Debug\Model.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\Model\bin\Debug\Model.pdb
+E:\001.项目代码\wupd2014.io\TicketSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\001.项目代码\wupd2014.io\TicketSystem\Model\obj\Debug\Model.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\Model\obj\Debug\Model.pdb

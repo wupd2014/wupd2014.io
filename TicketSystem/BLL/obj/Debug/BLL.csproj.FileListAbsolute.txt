@@ -40,3 +40,10 @@ H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\BLL\bin\Debug\Model.
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\BLL\obj\Debug\BLL.dll
 H:\001.项目代码\机场巴士CS\wupd2014.io\TicketSystem\BLL\obj\Debug\BLL.pdb
+E:\001.项目代码\wupd2014.io\TicketSystem\BLL\bin\Debug\BLL.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\BLL\bin\Debug\BLL.pdb
+E:\001.项目代码\wupd2014.io\TicketSystem\BLL\bin\Debug\Model.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\BLL\bin\Debug\Model.pdb
+E:\001.项目代码\wupd2014.io\TicketSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\001.项目代码\wupd2014.io\TicketSystem\BLL\obj\Debug\BLL.dll
+E:\001.项目代码\wupd2014.io\TicketSystem\BLL\obj\Debug\BLL.pdb
