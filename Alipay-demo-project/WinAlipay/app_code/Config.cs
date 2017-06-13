@@ -12,7 +12,7 @@ namespace Com.Alipay
     public class Config
     {
 
-        /*****************************生产环境的测试数据*****************************/
+        /*****************************生产环境的测试数据*****************************
         public static string alipay_public_key = System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase + "Demo\\alipay_rsa_public_key.pem";
         //这里要配置没有经过PKCS8转换的原始私钥
         public static string merchant_private_key = System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase + "Demo\\rsa_private_key.pem ";
@@ -26,21 +26,21 @@ namespace Com.Alipay
 
 
 
-        /*****************************开发环境的测试数据*****************************
-              public static string     alipay_public_key = HttpRuntime.AppDomainAppPath.ToString() + "Demo\\alipay_rsa_public_key_dev.pem";
+        /*****************************开发环境的测试数据*****************************/
+        public static string alipay_public_key = System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase + "Demo\\alipay_rsa_public_key.pem";
                    //这里要配置没有经过PKCS8转换的原始私钥
-              public static string     merchant_private_key = HttpRuntime.AppDomainAppPath.ToString() + "Demo\\rsa_private_key_dev.pem";
-              public static string     merchant_public_key = HttpRuntime.AppDomainAppPath.ToString() + "Demo\\rsa_public_key_dev.pem";
-              public static string     appId = "2015042200550512";
-              public static string     serverUrl = "http://openapi.d7165.alipay.net/gateway.do";
+        public static string merchant_private_key = System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase + "Demo\\rsa_private_key.pem";
+        public static string merchant_public_key = System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase + "Demo\\rsa_public_key.pem";
+        public static string appId = "2016080500173432";
+        public static string serverUrl = "https://openapi.alipaydev.com/gateway.do";
               public static string     mapiUrl = "http://mapi.stable.alipay.net/gateway.do";
-              public static string     pid = "2088102146891244";
-         *****************************开发环境的测试数据*****************************/
+              public static string pid = "2088102170069329";
+         /*****************************开发环境的测试数据*****************************/
 
 
          public static string charset = "utf-8";//"utf-8";
          public static string sign_type = "RSA";
-         public static string version = "1.0";
+         public static string version = "2.0";
      
 
         public Config()

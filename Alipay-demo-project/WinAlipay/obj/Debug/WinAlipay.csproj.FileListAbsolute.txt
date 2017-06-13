@@ -23,3 +23,15 @@ C:\Users\zm\Desktop\Alipay-demo-project\WinAlipay\obj\Debug\WinAlipay.csproj.Gen
 C:\Users\zm\Desktop\Alipay-demo-project\WinAlipay\bin\Debug\Demo\alipay_rsa_public_key.pem
 C:\Users\zm\Desktop\Alipay-demo-project\WinAlipay\bin\Debug\Demo\rsa_private_key.pem
 C:\Users\zm\Desktop\Alipay-demo-project\WinAlipay\bin\Debug\Demo\rsa_public_key.pem
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\bin\Debug\WinAlipay.exe.config
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\obj\Debug\WinAlipay.exe
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\obj\Debug\WinAlipay.pdb
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\bin\Debug\Demo\alipay_rsa_public_key.pem
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\bin\Debug\Demo\rsa_private_key.pem
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\bin\Debug\Demo\rsa_public_key.pem
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\bin\Debug\WinAlipay.exe
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\bin\Debug\WinAlipay.pdb
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\obj\Debug\WinAlipay.csprojResolveAssemblyReference.cache
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\obj\Debug\WinAlipay.Form1.resources
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\obj\Debug\WinAlipay.Properties.Resources.resources
+H:\001.项目代码\项目代码GitHub\wupd2014.io\Alipay-demo-project\WinAlipay\obj\Debug\WinAlipay.csproj.GenerateResource.Cache
