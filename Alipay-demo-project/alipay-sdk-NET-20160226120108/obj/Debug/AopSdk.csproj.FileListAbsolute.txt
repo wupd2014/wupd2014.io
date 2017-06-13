@@ -1,0 +1,17 @@
+D:\work\2016\demo_all\DEMO_DotNet\Projects\alipay-sdk-NET-20160226120108\bin\Debug\AopSdk.dll
+D:\work\2016\demo_all\DEMO_DotNet\Projects\alipay-sdk-NET-20160226120108\bin\Debug\AopSdk.pdb
+D:\work\2016\demo_all\DEMO_DotNet\Projects\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.csprojResolveAssemblyReference.cache
+D:\work\2016\demo_all\DEMO_DotNet\Projects\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.dll
+D:\work\2016\demo_all\DEMO_DotNet\Projects\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.pdb
+C:\Users\Administrator\Desktop\F2FPay_Demo_DotNet\Projects\alipay-sdk-NET-20160226120108\bin\Debug\AopSdk.dll
+C:\Users\Administrator\Desktop\F2FPay_Demo_DotNet\Projects\alipay-sdk-NET-20160226120108\bin\Debug\AopSdk.pdb
+C:\Users\Administrator\Desktop\F2FPay_Demo_DotNet\Projects\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.dll
+C:\Users\Administrator\Desktop\F2FPay_Demo_DotNet\Projects\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.pdb
+C:\Users\zm\Desktop\360安全浏览器下载\支付宝线下支付C#2005WINFORM实例及官网DEMO\alipay-sdk-NET-20160226120108\bin\Debug\AopSdk.dll
+C:\Users\zm\Desktop\360安全浏览器下载\支付宝线下支付C#2005WINFORM实例及官网DEMO\alipay-sdk-NET-20160226120108\bin\Debug\AopSdk.pdb
+C:\Users\zm\Desktop\360安全浏览器下载\支付宝线下支付C#2005WINFORM实例及官网DEMO\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.dll
+C:\Users\zm\Desktop\360安全浏览器下载\支付宝线下支付C#2005WINFORM实例及官网DEMO\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.pdb
+C:\Users\zm\Desktop\Alipay-demo-project\alipay-sdk-NET-20160226120108\bin\Debug\AopSdk.dll
+C:\Users\zm\Desktop\Alipay-demo-project\alipay-sdk-NET-20160226120108\bin\Debug\AopSdk.pdb
+C:\Users\zm\Desktop\Alipay-demo-project\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.dll
+C:\Users\zm\Desktop\Alipay-demo-project\alipay-sdk-NET-20160226120108\obj\Debug\AopSdk.pdb

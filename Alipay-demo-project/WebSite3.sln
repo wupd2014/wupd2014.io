@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "F2F-PAY", "http://localhost:38583", "{81362565-14BF-42B7-9D7A-95EF3D1D3758}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = "{ec6da18d-0532-4e73-ba69-a575a724c8bb}|F2FPayDll.dll;{9C11CAE5-5188-4E71-825B-68FC3135728A}|AopSdk.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_38583"
+		Debug.AspNetCompiler.PhysicalPath = "..\360安全浏览器下载\支付宝线下支付C#2005WINFORM实例及官网DEMO\F2FPay_Demo_DotNet\F2FPay_Demo_DotNet\WebSites\F2F-PAY\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_38583\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_38583"
+		Release.AspNetCompiler.PhysicalPath = "..\360安全浏览器下载\支付宝线下支付C#2005WINFORM实例及官网DEMO\F2FPay_Demo_DotNet\F2FPay_Demo_DotNet\WebSites\F2F-PAY\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_38583\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\360安全浏览器下载\支付宝线下支付C#2005WINFORM实例及官网DEMO\F2FPay_Demo_DotNet\F2FPay_Demo_DotNet\WebSites\F2F-PAY\"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{9C11CAE5-5188-4E71-825B-68FC3135728A} = {9C11CAE5-5188-4E71-825B-68FC3135728A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F2FPayDll", "F2FPayDll\F2FPayDll.csproj", "{EC6DA18D-0532-4E73-BA69-A575A724C8BB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9C11CAE5-5188-4E71-825B-68FC3135728A} = {9C11CAE5-5188-4E71-825B-68FC3135728A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAlipay", "WinAlipay\WinAlipay.csproj", "{BC02290E-AD85-49A2-855F-B3D454B47DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AopSdk", "alipay-sdk-NET-20160226120108\AopSdk.csproj", "{9C11CAE5-5188-4E71-825B-68FC3135728A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81362565-14BF-42B7-9D7A-95EF3D1D3758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81362565-14BF-42B7-9D7A-95EF3D1D3758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81362565-14BF-42B7-9D7A-95EF3D1D3758}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{81362565-14BF-42B7-9D7A-95EF3D1D3758}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{EC6DA18D-0532-4E73-BA69-A575A724C8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6DA18D-0532-4E73-BA69-A575A724C8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6DA18D-0532-4E73-BA69-A575A724C8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6DA18D-0532-4E73-BA69-A575A724C8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC02290E-AD85-49A2-855F-B3D454B47DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC02290E-AD85-49A2-855F-B3D454B47DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC02290E-AD85-49A2-855F-B3D454B47DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC02290E-AD85-49A2-855F-B3D454B47DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C11CAE5-5188-4E71-825B-68FC3135728A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C11CAE5-5188-4E71-825B-68FC3135728A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C11CAE5-5188-4E71-825B-68FC3135728A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C11CAE5-5188-4E71-825B-68FC3135728A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
