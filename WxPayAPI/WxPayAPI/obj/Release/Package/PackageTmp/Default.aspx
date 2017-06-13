@@ -61,9 +61,9 @@
 <body runat="server">
 	<div align="center">
         <ul>
-            <li style="background-color:#00CD00"><a href="http://paysdk.weixin.qq.com/example/ProductPage.aspx">JSAPI支付</a></li>
-            <li style="background-color:#00CD00"><a href="http://paysdk.weixin.qq.com/example/MicroPayPage.aspx">刷卡支付</a></li>
-            <li style="background-color:#00CD00"><a href="http://paysdk.weixin.qq.com/example/NativePayPage.aspx">扫码支付</a></li>
+            <li style="background-color:#00CD00"><a href="http://17149s4z37.51mypc.cn:27413/example/ProductPage.aspx">JSAPI支付</a></li>
+            <li style="background-color:#00CD00"><a href="http://17149s4z37.51mypc.cn:27413/example/MicroPayPage.aspx">刷卡支付</a></li>
+            <li style="background-color:#00CD00"><a href="http://17149s4z37.51mypc.cn:27413/example/NativePayPage.aspx">扫码支付</a></li>
             <li style="background-color:#00CD00"><a href="http://paysdk.weixin.qq.com/example/OrderQueryPage.aspx">订单查询</a></li>
             <li style="background-color:#00CD00"><a href="http://paysdk.weixin.qq.com/example/RefundPage.aspx">订单退款</a></li>
             <li style="background-color:#00CD00"><a href="http://paysdk.weixin.qq.com/example/RefundQueryPage.aspx">退款查询</a></li>
