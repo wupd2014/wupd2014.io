@@ -12,7 +12,7 @@
 <body>  
 	<form runat="server">
         <div style="margin-left:2%;">商品描述：</div><br/>
-        <asp:TextBox ID="body" runat="server" style="width:96%;height:35px;margin-left:2%;" value="test"/><br /><br />
+        <asp:TextBox ID="body" runat="server" style="width:96%;height:35px;margin-left:2%;" value="test22222222"/><br /><br />
         <div style="margin-left:2%;">支付金额(分)：</div><br/>
         <asp:TextBox ID="fee" runat="server" style="width:96%;height:35px;margin-left:2%;" value="1" /><br /><br />
         <div style="margin-left:2%;">授权码：</div><br/>
